@@ -1,0 +1,13 @@
+customer_id,timestamp,status,quantity,product
+c0800,2025-05-02 09:00:00,sent,200,WhatsApp Messaging
+c0800,2025-05-12 11:30:00,sent,350,WhatsApp Messaging
+c0800,2025-05-22 15:00:00,sent,400,WhatsApp Messaging
+c0800,2025-05-28 18:00:00,sent,150,WhatsApp Messaging
+c0800,2025-06-03 10:00:00,sent,500,WhatsApp Messaging
+c0800,2025-06-10 13:00:00,sent,600,WhatsApp Messaging
+c0800,2025-06-18 16:00:00,sent,700,WhatsApp Messaging
+c0800,2025-06-25 19:00:00,sent,800,WhatsApp Messaging
+c0800,2025-07-05 09:00:00,sent,900,WhatsApp Messaging
+c0800,2025-07-12 12:00:00,sent,1000,WhatsApp Messaging
+c0800,2025-07-19 15:00:00,sent,1100,WhatsApp Messaging
+c0800,2025-07-27 18:00:00,sent,1200,WhatsApp Messaging 

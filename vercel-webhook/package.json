@@ -1,0 +1,14 @@
+{
+  "name": "stripe-zenskar-webhook",
+  "version": "1.0.0",
+  "description": "Webhook to sync Stripe customers with Zenskar",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}

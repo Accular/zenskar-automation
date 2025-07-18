@@ -1,0 +1,26 @@
+customer_id,timestamp,status,quantity,product
+c0027,2025-05-01 10:00:00,delivered,500,SMS
+c0027,2025-05-02 11:00:00,delivered,900,WhatsApp Messaging
+c0027,2025-05-03 12:00:00,delivered,500,AI SMS
+c0027,2025-06-01 10:00:00,delivered,800,SMS
+c0027,2025-06-02 11:00:00,delivered,1500,WhatsApp Messaging
+c0027,2025-06-03 12:00:00,delivered,1200,AI SMS
+c0027,2025-07-01 10:00:00,delivered,1200,SMS
+c0027,2025-07-02 11:00:00,delivered,2500,WhatsApp Messaging
+c0027,2025-07-03 12:00:00,delivered,2500,AI SMS
+c0027,2025-07-16 14:36:37,delivered,100,SMS
+c0027,2025-07-17 10:00:00,delivered,50,SMS
+c0027,2025-05-01 10:00:00,delivered,500,SMS
+c0027,2025-05-02 11:00:00,delivered,900,WhatsApp Messaging
+c0027,2025-05-03 12:00:00,delivered,500,AI SMS
+c0027,2025-06-01 10:00:00,delivered,800,SMS
+c0027,2025-06-02 11:00:00,delivered,1500,WhatsApp Messaging
+c0027,2025-06-03 12:00:00,delivered,1200,AI SMS
+c0027,2025-07-01 10:00:00,delivered,1200,SMS
+c0027,2025-07-02 11:00:00,delivered,2500,WhatsApp Messaging
+c0027,2025-07-03 12:00:00,delivered,2500,AI SMS
+c0027,2025-07-16 14:36:37,delivered,100,SMS
+c0027,2025-07-17 10:00:00,delivered,50,SMS
+c0027,2025-05-15 11:00:00,sent,1440,WhatsApp Messaging
+c0027,2025-06-15 11:00:00,sent,2400,WhatsApp Messaging
+c0027,2025-07-15 11:00:00,sent,4000,WhatsApp Messaging

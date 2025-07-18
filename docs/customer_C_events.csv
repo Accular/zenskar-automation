@@ -1,0 +1,16 @@
+customer_id,timestamp,data.status,data.quantity,data.product
+c0800,2025-07-16 15:10:00,delivered,150,WhatsApp Messaging
+c0800,2025-07-17 12:00:00,delivered,120,WhatsApp Messaging
+c0800,2025-05-06 15:00:00,delivered,300,SMS
+c0800,2025-05-07 16:00:00,delivered,50,WhatsApp Messaging
+c0800,2025-05-08 17:00:00,delivered,600,AI SMS
+c0800,2025-05-09 18:00:00,delivered,400,SMS
+c0800,2025-06-06 15:00:00,delivered,900,SMS
+c0800,2025-06-07 16:00:00,delivered,800,WhatsApp Messaging
+c0800,2025-06-08 17:00:00,delivered,1300,AI SMS
+c0800,2025-06-09 18:00:00,delivered,700,SMS
+c0800,2025-07-06 15:00:00,delivered,1100,SMS
+c0800,2025-07-07 16:00:00,delivered,1500,WhatsApp Messaging
+c0800,2025-07-08 17:00:00,delivered,2200,AI SMS
+c0800,2025-07-16 15:10:00,delivered,150,WhatsApp Messaging
+c0800,2025-07-17 12:00:00,delivered,120,WhatsApp Messaging

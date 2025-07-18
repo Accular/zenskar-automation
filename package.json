@@ -1,0 +1,22 @@
+{
+  "name": "zenskar-legacy",
+  "version": "1.0.0",
+  "description": "This repository contains a comprehensive implementation guide for configuring **Smsworld's** billing system using [Zenskar](https://docs.zenskar.com/docs/introduction-to-zenskar), a flexible billing and revenue management platform.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
